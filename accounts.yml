@@ -1,0 +1,20 @@
+build:
+  version: "3.0.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1245
+
+#command
+# mvn clean install
+# mav spring-boot:run
+# java -jar accounts-0.0.1-SNAPSHOT.jar
+# docker build . -t alexrev/accounts:s6
+# docker run -p 8080:8080 -d --name accounts alexrev/accounts:s4
+# docker image push docker.io/alexrev/accounts:s6
+# docker compose up -d

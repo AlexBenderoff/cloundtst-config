@@ -1,0 +1,11 @@
+build:
+  version: "2.0.1"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Smith Bambuk - QA Lead"
+    email: "smith@eazybank.com"
+  onCallSupport:
+    - (333) 333-7766
+    - (333) 334-9988

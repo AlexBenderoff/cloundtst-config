@@ -1,0 +1,16 @@
+build:
+  version: "3.0.0"
+
+loans:
+  message: "Welcome to EazyBank loans related local APIs "
+  contactDetails:
+    name: "Amaal Grega - Developer"
+    email: "amaal@eazybank.com"
+  onCallSupport:
+    - (452) 456-2176
+    - (546) 764-8934
+
+### commands
+# mvn spring-boot:build-image
+# docker run -d -p 8090:8090 --name loans alexrev/loans:s4
+# docker image push docker.io/alexrev/loans:s4

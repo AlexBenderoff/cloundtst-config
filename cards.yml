@@ -1,0 +1,18 @@
+build:
+  version: "3.0.7"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Dragos Lech - Developer"
+    email: "dragos@eazybank.com"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932
+
+# /swagger-ui/index.html
+
+### commands https://github.com/GoogleContainerTools/jib/tree/master/jib-maven-plugin
+# mvn compile jib:build
+# mvn compile jib:dockerBuild
+# docker image push docker.io/alexrev/cards:s4
