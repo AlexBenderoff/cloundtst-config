@@ -2,7 +2,7 @@ build:
   version: "1.3.7"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Prod APIs"
+  message: "Welcome to EazyBank accounts related Production APIs"
   contactDetails:
     name: "Jecki Chan - Product Owner"
     email: "{cipher}9a2f67901809827c214bee0c56363f8c2b4d010df1adc6963bde8a5bccf6d09b6440adedfc1fc34ff57e93d62c0053af"
